@@ -1,0 +1,4 @@
+/app/core/.env
+/alembic/
+alembic.ini
+
